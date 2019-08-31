@@ -5,7 +5,7 @@ array.index { |value_to_find|
 end
 
 def find_max_value(array)
-  array.length.max 
+  array.each.max 
   puts array
 end
 
