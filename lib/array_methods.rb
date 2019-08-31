@@ -3,7 +3,7 @@ array.index { |value_to_find|
   puts array[value_to_find]
 }
 end
-
+end
 def find_max_value(array)
 
 end
